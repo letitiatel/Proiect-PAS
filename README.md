@@ -8,3 +8,8 @@ This Unreal Engine 5 project features a sci-fi shooter game where two AI-control
 - `Config/` – Unreal Engine configuration files.
 - `Content/` – All game assets including maps, textures, models, and AI logic.
 - `ProiectPAS.uproject` – The main Unreal Engine project file.
+
+
+## Demo
+
+A video demo of the game can be found [here](https://youtu.be/WcHL2PsreWI)
